@@ -1,0 +1,8 @@
+fastapi
+openai
+sentence-transformers
+PyPDF2
+requests
+groq
+streamlit
+uvicorn
