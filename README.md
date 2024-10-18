@@ -5,6 +5,8 @@
 ## 1. Realizar un fork del repositorio (crear tu propia copia)
 
 Primero, necesitas hacer una copia del código del proyecto en tu cuenta de GitHub. Esto se llama hacer un "fork".
+![image](https://github.com/user-attachments/assets/846931d5-513e-4724-a325-27907fd194b8)
+
 
 1. Ve a la página del repositorio en GitHub.
 
